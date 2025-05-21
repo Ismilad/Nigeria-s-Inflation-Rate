@@ -13,7 +13,5 @@ From the analysis, it is evident enough that the inflation rate and Consumer Pri
 ## Recommendation
  Identifying the principal driver of inflation as the petrol pump price, it is strongly recommended that measures be implemented to reduce petrol prices for end users. This proactive approach will significantly contribute to achieving a deflationary effect, given the substantial influence of petrol prices on the overall inflation rate.
 
-![Image Info](Screenshot%202025-05-20%20061145.png)
-
-
+![image info](Screenshot%202025-05-20%20061145.png)
 
